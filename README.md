@@ -1,2 +1,3 @@
 # My-own-projects
-prosjekter som jeg tester ut og lager
+Hei. 
+Detter er prosjekter som jeg tester ut og lager
